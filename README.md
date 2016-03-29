@@ -1,5 +1,5 @@
 # Ike.js
-[![Ike.js on NPM](https://img.shields.io/npm/v/ike.js.svg)](https://www.npmjs.com/package/third-partay.js)
+[![Ike.js on NPM](https://img.shields.io/npm/v/ike.js.svg)](https://www.npmjs.com/package/ike.js)
 
 A small, dependency-free library that asynchronously loads SVG sprites and saves them to local storage.
 
