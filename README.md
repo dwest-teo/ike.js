@@ -46,4 +46,4 @@ That's it, you're now equipped with a lightning-fast, non-render blocking icon s
 
 [MIT](https://opensource.org/licenses/MIT). © 2016 Donny West
 
-[![Built With Swag](http://forthebadge.com/images/badges/built-with-swag.svg)](http://forthebadge.com)
+[![Fo Shizzle](http://forthebadge.com/images/badges/fo-shizzle.svg)](http://forthebadge.com)
