@@ -2,18 +2,23 @@
   "name": "ike.js",
   "version": "0.0.1",
   "description": "A small, dependency-free library that asynchronously loads SVG sprites and saves them to local storage.",
-  "homepage": "",
+  "homepage": "https://github.com/dwest-teo/ike.js",
   "main": "dist/ike.min.js",
   "author": "Donny West",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/dwest-teo/ike.js.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/dwest-teo/ike.js/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "svg icons",
+    "icon sprites",
+    "svg loader",
+    "local storage"
+  ],
   "devDependencies": {
     "babel-core": "*",
     "babel-plugin-add-module-exports": "*",
